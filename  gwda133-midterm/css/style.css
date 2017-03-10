@@ -1,0 +1,13 @@
+  body {
+      background-color: #C192BE;
+  }
+
+  footer {
+      background-color: #FCDDF7;
+      color: #D8A385;
+  }
+
+  .container {
+      width: 960px;
+      margin: 0 auto;
+  }
